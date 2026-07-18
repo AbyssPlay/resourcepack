@@ -1,0 +1,15 @@
+{
+  "custom.gui.teleport": {
+    "category": "master",
+    "sounds": [
+      "custom/gui/teleport"
+    ]
+  },
+  "custom.gui.sirena": {
+    "category": "master",
+    "sounds": [
+      "custom/gui/sirena"
+    ]
+  }
+
+}

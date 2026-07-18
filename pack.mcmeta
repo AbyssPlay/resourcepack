@@ -1,6 +1,25 @@
 {
   "pack": {
     "pack_format": 88,
-    "description": "Main Abyss Resoursepack From AbyssPlay Repository"
+    "supported_formats": {
+      "min_inclusive": 46,
+      "max_inclusive": 255
+    },
+    "min_format": 46,
+    "max_format": 255,
+    "description": [
+      "",
+      { "text": "❖ ", "color": "#7B2FBE", "bold": true },
+      { "text": "A", "color": "#6A1B9A", "bold": true },
+      { "text": "B", "color": "#8E24AA", "bold": true },
+      { "text": "Y", "color": "#AB47BC", "bold": true },
+      { "text": "S", "color": "#C158DC", "bold": true },
+      { "text": "S", "color": "#D97FF0", "bold": true },
+      { "text": " ❖\n", "color": "#7B2FBE", "bold": true },
+      { "text": "✦ ", "color": "#5E35B1", "bold": false },
+      { "text": "The Descent", "color": "#B39DDB", "italic": true, "bold": false },
+      { "text": " · ", "color": "#5E35B1", "italic": false, "bold": false },
+      { "text": "v2.0", "color": "#C158DC", "italic": false, "bold": false }
+    ]
   }
 }

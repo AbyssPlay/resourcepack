@@ -1,0 +1,8 @@
+{"providers":[
+{"type":"bitmap","file":"minecraft:blackhole/beam.png","ascent":128,"height":255,"chars":["\u1f01"]},
+{"type":"bitmap","file":"minecraft:blackhole/flash.png","ascent":128,"height":255,"chars":["\u1f02"]},
+{"type":"bitmap","file":"minecraft:blackhole/flash2.png","ascent":128,"height":255,"chars":["\u1f03"]},
+{"type":"bitmap","file":"minecraft:blackhole/wide_flash.png","ascent":132,"height":255,"chars":["\u1f04"]},
+{"type":"bitmap","file":"minecraft:blackhole/multi_flash.png","ascent":128,"height":255,"chars":["\u1f05"]},
+{"type":"bitmap","file":"minecraft:blackhole/trol.png","ascent":8,"height":16,"chars":["\u1f06"]}
+]}

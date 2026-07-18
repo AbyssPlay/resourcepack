@@ -1,0 +1,194 @@
+{
+    "providers":[
+        {
+            "chars": [
+                ""
+            ],
+            "file":"font/gui/transfer-background-1.png",
+            "height":500,
+            "ascent":250,
+            "type":"bitmap"
+        },
+        {
+            "chars": [
+                ""
+            ],
+            "file":"font/gui/transfer-background-0.png",
+            "height":650,
+            "ascent":325,
+            "type":"bitmap"
+        },
+        {
+            "chars": [
+                ""
+            ],
+            "file":"font/icon/load1.png",
+            "height":15,
+            "ascent":-32,
+            "type":"bitmap"
+        },
+        {
+            "chars": [
+                ""
+            ],
+            "file":"font/icon/load2.png",
+            "height":15,
+            "ascent":-32,
+            "type":"bitmap"
+        },
+        {
+            "chars": [
+                ""
+            ],
+            "file":"font/icon/load3.png",
+            "height":15,
+            "ascent":-32,
+            "type":"bitmap"
+        },
+        {
+            "chars": [
+                ""
+            ],
+            "file":"font/icon/load4.png",
+            "height":15,
+            "ascent":-32,
+            "type":"bitmap"
+        },
+        {
+            "chars": [
+                ""
+            ],
+            "file": "font/icon/ping.png",
+            "ascent": 11,
+            "height": 16,
+            "type": "bitmap"
+        },
+        {
+            "chars": [
+                ""
+            ],
+            "file": "font/icon/twitch.png",
+            "ascent": 7,
+            "height": 8,
+            "type": "bitmap"
+        },
+        {
+            "chars": [
+                ""
+            ],
+            "file": "font/icon/discord.png",
+            "ascent": 7,
+            "height": 8,
+            "type": "bitmap"
+        },
+        {
+            "chars": [
+                ""
+            ],
+            "file": "font/icon/moderator-senior_badge.png",
+            "ascent": 9,
+            "height": 10,
+            "type": "bitmap"
+        },
+        {
+            "chars": [
+                ""
+            ],
+            "file": "font/icon/moderator_badge.png",
+            "ascent": 9,
+            "height": 10,
+            "type": "bitmap"
+        },
+        {
+            "chars": [
+                ""
+            ],
+            "file": "font/icon/personnel_badge.png",
+            "ascent": 9,
+            "height": 10,
+            "type": "bitmap"
+        },
+        {
+            "chars": [
+                ""
+            ],
+            "file": "font/icon/plus_badge.png",
+            "ascent": 8,
+            "height": 10,
+            "type": "bitmap"
+        },
+        {
+            "chars": [
+                ""
+            ],
+            "file": "font/icon/people.png",
+            "ascent": 8,
+            "height": 8,
+            "type": "bitmap"
+        },
+        {
+            "chars": [
+                ""
+            ],
+            "file": "font/icon/logo1.png",
+            "ascent": 52,
+            "height": 85,
+            "type": "bitmap"
+        },
+        {
+            "chars": [
+                ""
+            ],
+            "file": "font/icon/logo2.png",
+            "ascent": 52,
+            "height": 85,
+            "type": "bitmap"
+        },
+        {
+            "chars": [
+                ""
+            ],
+            "file": "font/icon/logo3.png",
+            "ascent": 52,
+            "height": 85,
+            "type": "bitmap"
+        },
+        {
+            "chars": [
+                ""
+            ],
+            "file": "font/icon/player_badge.png",
+            "ascent": 8,
+            "height": 10,
+            "type": "bitmap"
+        },
+        {
+            "chars": [
+                ""
+            ],
+            "file": "font/icon/sponsor_badge.png",
+            "ascent": 9,
+            "height": 10,
+            "type": "bitmap"
+        },
+        {
+            "chars": [
+                ""
+            ],
+            "file": "font/icon/pixel-battle_badge.png",
+            "ascent": 9,
+            "height": 10,
+            "type": "bitmap"
+        },
+        {
+            "chars": [
+                ""
+            ],
+            "file": "font/icon/zero_badge.png",
+            "ascent": 9,
+            "height": 10,
+            "type": "bitmap"
+        },
+        {"type":"reference","id":"minecraft:images"}
+    ]
+}

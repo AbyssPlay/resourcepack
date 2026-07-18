@@ -1,0 +1,4 @@
+{
+  "voicelines.harpy_express.notification":{"sounds":[{"preload":true,"stream":true,"volume": 0.7,"name":"abyss:voicelines/harpy_express/notification"}]},
+  "music.lobby":{"sounds":[{"preload":true,"stream":true,"volume": 1,"name":"abyss:music/lobby_track"}]}
+}
