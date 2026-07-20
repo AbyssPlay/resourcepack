@@ -86,8 +86,8 @@
                 ""
             ],
             "file": "font/icon/moderator-senior_badge.png",
-            "ascent": 9,
-            "height": 10,
+            "ascent": 8,
+            "height": 8,
             "type": "bitmap"
         },
         {
@@ -95,8 +95,8 @@
                 ""
             ],
             "file": "font/icon/moderator_badge.png",
-            "ascent": 9,
-            "height": 10,
+            "ascent": 8,
+            "height": 8,
             "type": "bitmap"
         },
         {
@@ -104,8 +104,8 @@
                 ""
             ],
             "file": "font/icon/personnel_badge.png",
-            "ascent": 9,
-            "height": 10,
+            "ascent": 8,
+            "height": 8,
             "type": "bitmap"
         },
         {
@@ -114,7 +114,7 @@
             ],
             "file": "font/icon/plus_badge.png",
             "ascent": 8,
-            "height": 10,
+            "height": 8,
             "type": "bitmap"
         },
         {
@@ -159,7 +159,7 @@
             ],
             "file": "font/icon/player_badge.png",
             "ascent": 8,
-            "height": 10,
+            "height": 8,
             "type": "bitmap"
         },
         {
@@ -167,8 +167,8 @@
                 ""
             ],
             "file": "font/icon/sponsor_badge.png",
-            "ascent": 9,
-            "height": 10,
+            "ascent": 8,
+            "height": 8,
             "type": "bitmap"
         },
         {
@@ -176,8 +176,8 @@
                 ""
             ],
             "file": "font/icon/pixel-battle_badge.png",
-            "ascent": 9,
-            "height": 10,
+            "ascent": 8,
+            "height": 8,
             "type": "bitmap"
         },
         {
@@ -185,8 +185,8 @@
                 ""
             ],
             "file": "font/icon/zero_badge.png",
-            "ascent": 9,
-            "height": 10,
+            "ascent": 8,
+            "height": 8,
             "type": "bitmap"
         },
         {"type":"reference","id":"minecraft:images"}
