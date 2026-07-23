@@ -1,0 +1,77 @@
+{
+  "parent": "minecraft:block/block",
+  "textures": {
+    "0": "flsh:block/cassette_recorder",
+    "particle": "flsh:block/cassette_recorder"
+  },
+  "elements": [
+    {
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        16,
+        8,
+        16
+      ],
+      "faces": {
+        "up": {
+          "uv": [
+            4.0,
+            0.0,
+            8.0,
+            4.0
+          ],
+          "texture": "#0"
+        },
+        "down": {
+          "uv": [
+            8.0,
+            0.0,
+            12.0,
+            4.0
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            0.0,
+            4.0,
+            4.0,
+            6.0
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            4.0,
+            4.0,
+            8.0,
+            6.0
+          ],
+          "texture": "#0"
+        },
+        "north": {
+          "uv": [
+            8.0,
+            4.0,
+            12.0,
+            6.0
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            12.0,
+            4.0,
+            16.0,
+            6.0
+          ],
+          "texture": "#0"
+        }
+      }
+    }
+  ]
+}

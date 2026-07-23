@@ -1,0 +1,26 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "flsh:item/cassette_label",
+    "layer1": "flsh:item/cassette_body"
+  },
+  "display": {
+    "gui": {
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "translation": [
+        8.0,
+        -0.5,
+        0
+      ],
+      "scale": [
+        4.1,
+        4.1,
+        4.1
+      ]
+    }
+  }
+}

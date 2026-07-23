@@ -1,0 +1,6 @@
+{
+  "parent": "flsh:item/menu/button_base",
+  "textures": {
+    "layer0": "flsh:item/menu/edit"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "providers": [
+    {
+      "type": "space",
+      "advances": {
+        "\uf801": -8,
+        "\uf802": -169,
+        "\uf803": 1,
+        "\uf804": 2,
+        "\uf805": 4,
+        "\uf806": 8,
+        "\uf807": 16,
+        "\uf808": 32,
+        "\uf809": 64
+      }
+    },
+    {
+      "type": "bitmap",
+      "file": "flsh:font/menu/player.png",
+      "height": 168,
+      "ascent": 13,
+      "chars": [
+        "\ue100"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "flsh:font/menu/recorder.png",
+      "height": 186,
+      "ascent": 13,
+      "chars": [
+        "\ue101"
+      ]
+    }
+  ]
+}

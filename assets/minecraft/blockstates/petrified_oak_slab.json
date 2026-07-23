@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "type=bottom": { "model": "flsh:block/cassette_recorder" },
+    "type=top": { "model": "flsh:block/cassette_recorder" },
+    "type=double": { "model": "flsh:block/cassette_recorder" }
+  }
+}
